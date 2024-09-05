@@ -1,0 +1,17 @@
+/* Themify Customize Styling */
+body #site-logo a img {		width: 60px;
+	height: 30px; 
+}
+@media(max-width: 1024px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 60px;
+	height: 30px; 
+}
+ }@media(max-width: 768px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 60px;
+	height: 30px; 
+}
+ }@media(max-width: 600px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 60px;
+	height: 30px; 
+}
+ }
